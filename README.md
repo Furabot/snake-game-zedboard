@@ -6,7 +6,7 @@ This project implements our version of Snake on the Digilent Zedboard Zynq-7000 
 - 640x480 game resolution (25MHz pixel clock) and 25Hz update frequency
 - Psuedorandom apple generation using the pixel clock
 
-Some elements of this project have been designd for this FPGA, such as the clock dividers, flashing LEDs, and constraints. To implement on a different FPGA,
+Some elements of this project have been designed for this FPGA, such as the clock dividers, flashing LEDs, and constraints. To implement on a different FPGA,
 some changes will be required.
 
 
